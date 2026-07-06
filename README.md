@@ -45,6 +45,17 @@ As part of this project, I explored object-level permissions by:
 - ✅ Completed
 - Last updated: July 2026
 
+## Screenshots
+
+### Hosted Website
+
+![Hosted Website](screenshots/screenshot-s3-website.png)
+
+### Amazon S3 Bucket Contents
+
+![Amazon S3 Bucket Contents](screenshots/screenshot-s3-contents.png)
+
+
 ## Next Project
 
 Build on this website by placing Amazon CloudFront in front of the S3 bucket to improve performance and learn about content delivery.
