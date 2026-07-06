@@ -49,11 +49,11 @@ As part of this project, I explored object-level permissions by:
 
 ### Hosted Website
 
-![Hosted Website](screenshot-s3-website.png)
+![Hosted Website](Screenshot-s3-website.png)
 
 ### Amazon S3 Bucket Contents
 
-![Amazon S3 Bucket Contents](screenshot-s3-contents.png)
+![Amazon S3 Bucket Contents](Screenshot-s3-contents.png)
 
 
 ## Next Project
